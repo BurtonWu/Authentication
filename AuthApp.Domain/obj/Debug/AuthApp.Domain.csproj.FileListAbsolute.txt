@@ -1,0 +1,5 @@
+c:\users\burton\documents\visual studio 2013\Projects\AuthenticationTestApp\AuthApp.Domain\bin\Debug\AuthApp.Domain.dll
+c:\users\burton\documents\visual studio 2013\Projects\AuthenticationTestApp\AuthApp.Domain\bin\Debug\AuthApp.Domain.pdb
+c:\users\burton\documents\visual studio 2013\Projects\AuthenticationTestApp\AuthApp.Domain\obj\Debug\AuthApp.Domain.csprojResolveAssemblyReference.cache
+c:\users\burton\documents\visual studio 2013\Projects\AuthenticationTestApp\AuthApp.Domain\obj\Debug\AuthApp.Domain.dll
+c:\users\burton\documents\visual studio 2013\Projects\AuthenticationTestApp\AuthApp.Domain\obj\Debug\AuthApp.Domain.pdb

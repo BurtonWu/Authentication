@@ -1,0 +1,1 @@
+c:\users\burton\documents\visual studio 2013\Projects\AuthenticationTestApp\AuthenticationTestApp.Server\obj\Debug\AuthenticationTestApp.Server.csprojResolveAssemblyReference.cache
